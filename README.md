@@ -10,5 +10,5 @@
 * stat_test.R
 
 ### Clustering and machine learning analysis
+* Sequence_clustering_sgt.ipynb
 * Sequence__analysis.ipynb
-* event_sequence_compute.R
